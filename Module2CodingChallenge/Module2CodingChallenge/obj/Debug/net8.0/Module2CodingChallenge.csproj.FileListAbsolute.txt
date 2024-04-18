@@ -1,0 +1,14 @@
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.exe
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.deps.json
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.runtimeconfig.json
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.dll
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.pdb
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.AssemblyInfoInputs.cache
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.AssemblyInfo.cs
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.csproj.CoreCompileInputs.cache
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.dll
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\refint\Module2CodingChallenge.dll
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.pdb
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.genruntimeconfig.cache
+C:\AppDev\Module2CodingChallenge\Module2CodingChallenge\obj\Debug\net8.0\ref\Module2CodingChallenge.dll
